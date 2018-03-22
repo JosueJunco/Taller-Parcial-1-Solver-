@@ -1,0 +1,14 @@
+body{
+	background:#B2B2AC;
+}
+textarea{
+    background: black;
+    color: white;
+    width: 1898px;
+    height: 897px;
+    font-style: italic;
+}
+
+#title{
+    font-style: italic;
+}
